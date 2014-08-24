@@ -9,7 +9,7 @@ If you have your own server based on whoop.im source code (Found at: https://git
 
 Install
 ========
-Install the Whoop.im.apk found in the bin/ folder on your Android phone
+Install the Whoop.im.apk found in the bin/ folder to your Android phone
 
 
 
