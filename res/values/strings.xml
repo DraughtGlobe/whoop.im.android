@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Whoop.im</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="title_activity_display_message">DisplayMessageActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="could_not_connect">Couldn\'t connect :(</string>
+    <string name="chat_room_default">This is where your messages and messages send by others will be displayed</string>
+    
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    
+    
+    
+    <string name="login_username_popup_initial_title">Login</string>
+    <string name="login_username_popup_initial_message">Enter a username to continue</string>
+    
+    <string name="nick_taken">This nick is taken, try another</string>
+    
+    <string name="invalid_field_username">Invalid username, remove any special characters (besides \'_\')</string>
+    <string name="invalid_field_password">Invalid password, make sure it\'s between 6 and 128 characters long</string>
+    <string name="invalid_field_email">Invalid email, make sure it\'s a valid email address</string>
+    <string name="invalid_field_channel_password">Invalid channel password, make sure it\'s between 6 and 128 characters long</string>
+    <string name="invalid_field_unknown">Something went wrong with field: </string>
+    
+    <string name="logged_in_elsewhere">Invalid username, remove any special characters (besides \'_\')</string>
+    <string name="channel_registration_successfull">You have successfully registered to this channel</string>
+    <string name="login_successfull">Successfully logged in.</string>
+    
+    <string name="password_popup_required_title">Password required</string>
+    <string name="password_popup_required_message">Enter the password for channel: </string>
+    
+    <string name="password_popup_invalid_title">Password Invalid</string>
+    <string name="password_popup_invalid_message">Re-enter to try again for channel: </string>
+    
+    <string name="notice_ninja">That user is a ninja</string>
+    <string name="notice_ninja_caught">You have been caught as a ninja by </string>
+    <string name="notice_banned_can_not_join">Can\'t join  </string>
+    <string name="notice_banned_explanation">You have been banned from this channel</string>
+    <string name="notice_too_many_messages">You have been sending too many messages at the same time</string>
+    <string name="notice_channel_succesfully_registered">This channel has been successfully registered</string>
+    <string name="notice_register_channel_failed">Registration of channel failed. If you believe this is in error, please contact admins</string>
+    
+    <string name="login_failed">Failed to login in. Please check login credentials.</string>
+
+    <string name="login_username_popup_login_failed_title">Login Failed</string>
+    <string name="login_username_popup_login_failed_message">Please try again by entering a username</string>
+    
+    <string name="login_popup_button_ok">OK</string>
+    <string name="login_popup_button_cancel">Cancel</string>
+    
+    <string name="login_password_popup_button_ok">OK</string>
+    <string name="login_password_popup_button_cancel">Cancel</string>
+    
+    <string name="password_popup_button_ok">OK</string>
+    <string name="password_popup_button_cancel">Cancel</string>
+    <string name="action_close">Close</string>
+    
+    <string name="local_service_name">WhoopService</string>
+    <string name="local_service_started">WhoopService Started</string>
+    <string name="local_service_connected">WhoopService Connected</string>
+    <string name="local_service_disconnected">WhoopService Disconnected</string>
+    <string name="local_service_stopped">WhoopService Stopped</string>
+    <string name="local_service_label">WhoopService Label</string>
+</resources>
